@@ -113,23 +113,3 @@ trader-performance-sentiment/
 
 
 
-
-
-How to Run
-pip install -r requirements.txt
-jupyter notebook analysis.ipynb
-
-
-
-Future Improvements
-
-Predict next-day profitability using sentiment and behavior features
-
-Cluster traders into behavioral archetypes
-
-Build an interactive dashboard using Streamlit
-
-Author
-
-Sujay Roy
-Data Science Intern Applicant
