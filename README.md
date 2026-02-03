@@ -113,3 +113,15 @@ trader-performance-sentiment/
 
 
 
+##  How to Run the Project
+
+### 1️ Clone the Repository
+```bash
+git clone https://github.com/<your-username>/trader-performance-sentiment.git
+cd trader-performance-sentiment
+
+##👤 Author
+
+Sujay Roy
+Data Science Intern Applicant
+
