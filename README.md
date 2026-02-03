@@ -110,14 +110,3 @@ trader-performance-sentiment/
 │   ├── leverage_by_sentiment.png
 │
 └── summary.md
-
-## How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/trader-performance-sentiment.git
-cd trader-performance-sentiment
-
-
-
-
