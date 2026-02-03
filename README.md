@@ -111,17 +111,12 @@ trader-performance-sentiment/
 │
 └── summary.md
 
+## How to Run
 
----
-
-## ▶️ How to Run the Project
-
-### 1️⃣ Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/trader-performance-sentiment.git
 cd trader-performance-sentiment
-
-
 
 
 
